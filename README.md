@@ -42,13 +42,14 @@ The core engine routes operational actions into automated general ledger entries
 
 ---
 
-## 📁 Project Attachments & Documents
-This repository hosts the full technical ecosystem:
-* 🟢 **`DMC_ERP_Financial_Model.xlsx`** *(25-Sheet Excel System)*
-* 📄 **`DMC_ERP_Presentation.pdf`** *(Case Study & Technical Integration Deck)*
-* 📑 **`Practical_Case_Study.pdf`** *(Step-by-Step Transaction Walkthrough)*
-* 📘 **`ERP_SaaS_Specifications.pdf`** *(Functional Requirements Guide for Odoo/SAP Implementations)*
+## 📁 Project Attachments & Resources
+This repository hosts the full technical ecosystem and resources:
 
+* 📄 **[View/Download PDF Presentation](DMC_ERP_Presentation%20.pdf)** — Full Case Study & Technical Integration Deck.
+* 🌐 **[Open Interactive HTML Presentation](dmc_erp_presentation.html)** — Interactive Web Slides.
+* 🟢 **`DMC_ERP_Financial_Model.xlsx`** *(25-Sheet Excel System — Coming Soon)*
+* 📑 **`Practical_Case_Study.pdf`** *(Step-by-Step Transaction Walkthrough — Coming Soon)*
+* 📘 **`ERP_SaaS_Specifications.pdf`** *(Functional Requirements Guide for Odoo/SAP — Coming Soon)*
 ---
 
 ### 📬 Discussion & Knowledge Sharing
